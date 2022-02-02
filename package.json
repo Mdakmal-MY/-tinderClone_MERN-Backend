@@ -1,0 +1,25 @@
+{
+  "name": "tinder_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mdakmal-MY/tinderClone_MERN-Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mdakmal-MY/tinderClone_MERN-Backend/issues"
+  },
+  "homepage": "https://github.com/Mdakmal-MY/tinderClone_MERN-Backend#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.10"
+  }
+}
